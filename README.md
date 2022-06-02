@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kyle Von</h1>
-<h3 align="center">路漫漫其修远兮</h3>
+<h3 align="center">A front end developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
 
