@@ -5,8 +5,7 @@
 
 [`> Blog`](https://jhxxs.com "🍵路漫漫其修远兮") or [`> Github Pages`](https://jhxxs.github.io)
 
-<p align="left">
-</p>
+<p align="left"></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -23,4 +22,13 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
+<hr/>
 <!-- ![MR. Peanut Butter](https://img3.doubanio.com/view/photo/l/public/p2498570493.webp) -->
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jhxxs)](https://github.com/LordDashMe/github-contribution-stats/)
+
+<hr/>
+
+### About My Name:
+
+**Kyle** is originated from [**Kyle Broflovski**](https://southpark.fandom.com/wiki/Kyle_Broflovski) <img src="https://static.wikia.nocookie.net/southpark/images/9/95/Kyle-broflovski.png/revision/latest/scale-to-width-down/350?cb=20190411033301" style="cursor:help;" title="OMG, they killed Kenny again!" width="40px" > in **_South Park_**, **Von** comes from [German language](https://en.wikipedia.org/wiki/Von), as it is translated into Chinese as '**冯**', exactly my lastname🤣.
