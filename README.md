@@ -31,4 +31,4 @@
 
 ### About My Name:
 
-**Kyle** is originated from [**Kyle Broflovski**](https://southpark.fandom.com/wiki/Kyle_Broflovski) <img src="https://static.wikia.nocookie.net/southpark/images/9/95/Kyle-broflovski.png/revision/latest/scale-to-width-down/350?cb=20190411033301" style="cursor:help;" title="OMG, they killed Kenny again!" width="40px" > in **_South Park_**, **Von** comes from [German language](https://en.wikipedia.org/wiki/Von), as it is translated into Chinese as '**冯**', exactly my lastname🤣.
+**Kyle** is originated from [**Kyle Broflovski**](https://southpark.fandom.com/wiki/Kyle_Broflovski) <img src="https://static.wikia.nocookie.net/southpark/images/9/95/Kyle-broflovski.png/revision/latest/scale-to-width-down/350?cb=20190411033301" style="cursor:help;transform:rotateZ(-10deg);" title="OMG, they killed Kenny again!" width="40px"> in **_South Park_**, **Von** comes from [German language](https://en.wikipedia.org/wiki/Von), as it is translated into Chinese as '**冯**', exactly my lastname🤣.
