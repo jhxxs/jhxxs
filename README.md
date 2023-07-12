@@ -22,13 +22,22 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<hr/>
+<hr />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhxxs&show_icons=true&theme=tokyonight&hide_border=true)
+
+<!-- <img src="./icon.png" width="24px" align="base" /> -->
+
+![Switch Card](https://ns.yuy1n.io/card/753ab141d8d20fe0/history)
+
 <!-- ![MR. Peanut Butter](https://img3.doubanio.com/view/photo/l/public/p2498570493.webp) -->
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jhxxs)](https://github.com/LordDashMe/github-contribution-stats/)
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315rppxnfwubwbthcpoehluh43xm&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=315rppxnfwubwbthcpoehluh43xm&redirect=true) -->
 
-<hr/>
+<!-- ### About My Name:
 
-### About My Name:
+**Kyle** is originated from [**Kyle Broflovski**](https://southpark.fandom.com/wiki/Kyle_Broflovski) <img src="https://static.wikia.nocookie.net/southpark/images/9/95/Kyle-broflovski.png/revision/latest/scale-to-width-down/350?cb=20190411033301" style="cursor:help;transform:rotateZ(-10deg);" title="OMG, they killed Kenny again!" width="40px"> in **_South Park_**, **Von** comes from [German language](https://en.wikipedia.org/wiki/Von), as it is translated into Chinese as '**冯**', exactly my lastname🤣. -->
 
-**Kyle** is originated from [**Kyle Broflovski**](https://southpark.fandom.com/wiki/Kyle_Broflovski) <img src="https://static.wikia.nocookie.net/southpark/images/9/95/Kyle-broflovski.png/revision/latest/scale-to-width-down/350?cb=20190411033301" style="cursor:help;transform:rotateZ(-10deg);" title="OMG, they killed Kenny again!" width="40px"> in **_South Park_**, **Von** comes from [German language](https://en.wikipedia.org/wiki/Von), as it is translated into Chinese as '**冯**', exactly my lastname🤣.
+<!-- ![Steam Card](https://card.yuy1n.io/card/76561198315914803/gradient3,badge,group,bg-game-250320) -->
+
+<!-- [![Apple Music](https://music-profile.rayriffy.com/theme/dark.svg?uid=001984.b963f50fda794f2fbc1d851c37506793.0741)](https://github.com/rayriffy/apple-music-github-profile) -->
