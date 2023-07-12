@@ -28,7 +28,7 @@
 
 <!-- <img src="./icon.png" width="24px" align="base" /> -->
 
-![Switch Card](https://ns.yuy1n.io/card/753ab141d8d20fe0/history)
+<img width="460" height="182" src="https://ns.yuy1n.io/card/753ab141d8d20fe0/history" />
 
 <!-- ![MR. Peanut Butter](https://img3.doubanio.com/view/photo/l/public/p2498570493.webp) -->
 
