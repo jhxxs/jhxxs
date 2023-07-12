@@ -24,7 +24,7 @@
 
 <hr />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhxxs&show_icons=true&theme=tokyonight&hide_border=true)
+![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhxxs&show_icons=true&theme=tokyonight&hide_border=true)
 
 <!-- <img src="./icon.png" width="24px" align="base" /> -->
 
