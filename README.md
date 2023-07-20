@@ -30,6 +30,8 @@
 
 <img width="460" height="182" src="https://ns.yuy1n.io/card/753ab141d8d20fe0/history" />
 
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=315rppxnfwubwbthcpoehluh43xm&redirect=false"><img alt="spotify-github-profile" src="https://spotify-github-profile.vercel.app/api/view?uid=315rppxnfwubwbthcpoehluh43xm&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" /></a>
+
 <!-- ![MR. Peanut Butter](https://img3.doubanio.com/view/photo/l/public/p2498570493.webp) -->
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315rppxnfwubwbthcpoehluh43xm&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=315rppxnfwubwbthcpoehluh43xm&redirect=true) -->
