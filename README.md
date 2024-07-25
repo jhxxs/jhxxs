@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[`> Blog`](https://jhxxs.com "🍵路漫漫其修远兮") or [`> Github Pages`](https://jhxxs.github.io)
+[`> Github Pages`](https://jhxxs.github.io "🍵路漫漫其修远兮")
 
 <p align="left"></p>
 
@@ -29,8 +29,6 @@
 <!-- <img src="./icon.png" width="24px" align="base" /> -->
 
 <img width="460" height="182" src="https://ns.yuy1n.io/card/753ab141d8d20fe0/history" />
-
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=315rppxnfwubwbthcpoehluh43xm&redirect=false"><img alt="spotify-github-profile" src="https://spotify-github-profile.vercel.app/api/view?uid=315rppxnfwubwbthcpoehluh43xm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" /></a>
 
 <!-- ![MR. Peanut Butter](https://img3.doubanio.com/view/photo/l/public/p2498570493.webp) -->
 
